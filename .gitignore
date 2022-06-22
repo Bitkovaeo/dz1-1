@@ -1,0 +1,11 @@
+# игнор файлы в каталоге tmp
+/tmp/
+
+# игнор файлов _old, _backup
+*.*_old
+*.*_backup
+
+Thumbs.db
+
+# игнор файлов с расширением .DS_Store
+*.DS_Store
